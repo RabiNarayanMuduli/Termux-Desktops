@@ -163,17 +163,17 @@ chmod +x startxfce4_debian.sh
 
 * startgnome_debian.sh
 ```
-wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/proot_debian/startgnome_debian.sh
+wget https://raw.githubusercontent.com/RabiNarayanMuduli/Termux-Desktops/main/scripts/proot_debian/startgnome_debian.sh
 ```
 
 * startxfce4_debian.sh
 ```
-wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/proot_debian/startxfce4_debian.sh
+wget https://raw.githubusercontent.com/RabiNarayanMuduli/Termux-Desktops/main/scripts/proot_debian/startxfce4_debian.sh
 ```
 
 * startlxde_debian.sh
 ```
-wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/proot_debian/startlxde_debian.sh
+wget https://raw.githubusercontent.com/RabiNarayanMuduli/Termux-Desktops/main/scripts/proot_debian/startlxde_debian.sh
 ```
 
 * startcinnamon_debian.sh
@@ -183,7 +183,7 @@ wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scr
 
 * startkde_debian.sh
 ```
-wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/proot_debian/startkde_debian.sh
+wget https://raw.githubusercontent.com/RabiNarayanMuduli/Termux-Desktops/main/scripts/proot_debian/startkde_debian.sh
 ```
 ---  
 <br>
